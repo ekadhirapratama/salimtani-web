@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Library Installed
+
+- Next v15.1.4
+- Tailwind CSS
+- Prettier
+- Class sorting Tailwind with Prettier
+
 ## Getting Started
 
 First, run the development server:
