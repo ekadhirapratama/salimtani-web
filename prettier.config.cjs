@@ -5,4 +5,8 @@ module.exports = {
   tabWidth: 2,
   singleQuote: true,
   vueIndentScriptAndStyle: true,
+  ignore: [
+    'src/components/ui/*',
+    'src/hooks/*'
+  ]
 };
